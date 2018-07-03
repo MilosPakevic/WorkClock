@@ -62,6 +62,9 @@
     <Compile Include="Displej.Designer.cs">
       <DependentUpon>Displej.cs</DependentUpon>
     </Compile>
+    <Compile Include="Metode.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Displej.resx">
